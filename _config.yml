@@ -3,7 +3,7 @@ title: ZENES
 subtitle: by HTML5 UP
 
 description: la descrizione di zenes anche la seconda riga.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site e.g. /blog
 url: "https://www.zenes.it" # the base hostname & protocol for your site
 
 street_address: Belluno IT <br/> 3791078922  <br/> info@zenes.it
