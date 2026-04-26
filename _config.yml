@@ -1,11 +1,13 @@
 # site settings
 title: ZENES
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+email: info@zenes.it
 description: la descrizione di zenes <br/> anche la seconda riga.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.zenes.it" # the base hostname & protocol for your site
 author:
+street_address: Belluno IT
+country: United States of America
 phone: 3791078922
 
 # social settings
