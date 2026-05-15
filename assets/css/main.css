@@ -2576,8 +2576,8 @@
 		ul.actions {
 			cursor: default;
 			list-style: none;
-			padding-left: 100;
-			padding-right: 100;
+			padding-left: 50;
+			padding-right: 50;
 		}
 
 			ul.actions li {
