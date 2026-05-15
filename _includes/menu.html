@@ -2,7 +2,6 @@
 
 <!-- Nav -->
 <nav id="nav">
-		<!-- MENU INIZIALE
 		<ul class="links">
         {% for page in site.pages %}
 		    {% if page.layout == "home" %}
@@ -14,14 +13,9 @@
 		    <li{% if current_page == page.url %} class="active"{% endif %}><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		    {% endif %}
 		    {% endfor %}
-		</ul>-->
-
-		<ul class="links">
-   			 <li><a href="{{ "" | absolute_url }}">Homepage</a></li>
-   			 <li><a href="/posts/2016-8-25-aliquam/">Aliquam</a></li>
-   			 <li><a href="/generic/">Generic Page</a></li>
 		</ul>
-		
+
+
 		<ul class="icons">
 				{% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
