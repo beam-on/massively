@@ -1669,6 +1669,8 @@
 
 	body {
 		color: #ffffff;
+		padding-left: 20px;
+        padding-right: 20px;
 	}
 
 	body, input, select, textarea {
