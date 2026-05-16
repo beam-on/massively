@@ -4487,3 +4487,13 @@
 		}
 
 	}
+.top-email {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.top-email a {
+  text-decoration: none;
+  font-size: 14px;
+}
