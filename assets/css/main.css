@@ -2083,7 +2083,7 @@
 			flex-shrink: 0;
 			padding: 1.5rem 0 0 1.5rem;
 			width: calc(100% - 1.5rem);
-			background: #7f0202 !important;
+			background: transparent !important;
 		}
 
 			form > .field.half {
@@ -3761,12 +3761,12 @@
 /* Footer */
 
 	#footer {
-		color: #717981;
+		color: #06801e;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #288f34 !important;
+		background-color: transparent !important; 
 		color: #124476;
 		cursor: default;
 		position: relative;
