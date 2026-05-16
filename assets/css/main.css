@@ -1671,7 +1671,7 @@
 		color: #ffffff;
 		padding-left: 100px;
         padding-right: 100px;
-		background: #9a1c1c !important;
+		
 	}
 
 	body, input, select, textarea {
@@ -2083,6 +2083,7 @@
 			flex-shrink: 0;
 			padding: 1.5rem 0 0 1.5rem;
 			width: calc(100% - 1.5rem);
+			background: #9a1c1c !important;
 		}
 
 			form > .field.half {
