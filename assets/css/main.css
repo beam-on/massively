@@ -1671,6 +1671,7 @@
 		color: #ffffff;
 		padding-left: 100px;
         padding-right: 100px;
+		background: #9a1c1c !important;
 	}
 
 	body, input, select, textarea {
@@ -1678,7 +1679,7 @@
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 2.375;
-		background: #870e0e !important;
+		background: #ffffff !important;
 	}
 
 	a {
