@@ -4483,17 +4483,3 @@
 		}
 
 	}
-form input[type="text"],
-form input[type="email"],
-form textarea {
-    background: transparent !important;
-    background-color: transparent !important;
-    box-shadow: none !important;
-    border: solid 1px rgba(255,255,255,0.3) !important;
-    color: #ffffff !important;
-    -webkit-appearance: none;
-}
-
-form .field {
-    background: transparent !important;
-}
