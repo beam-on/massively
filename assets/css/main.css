@@ -4483,13 +4483,3 @@
 		}
 
 	}
-input,
-textarea {
-    background: transparent !important;
-    box-shadow: none !important;
-    color: white !important;
-}
-
-form {
-    background: transparent !important;
-}
