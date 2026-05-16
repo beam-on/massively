@@ -1668,7 +1668,7 @@
 		}
 
 	body {
-		color: #b82929;
+		color: #ffffff;
 		padding-left: 100px;
         padding-right: 100px;
 	}
@@ -1678,6 +1678,7 @@
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 2.375;
+		background: transparent !important;
 	}
 
 	a {
