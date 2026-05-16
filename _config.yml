@@ -1,6 +1,7 @@
 # site settings
+description: "info@zenes.it"
 title: ZENES
-subtitle: by HTML5 UP
+# subtitle: by HTML5 UP
 
 description: "Zenes offre pratiche dedicate alla presenza e al benessere, che uniscono corpo, respiro e ascolto in esperienze essenziali e consapevoli. Attraverso il massaggio, la meditazione, lo yoga, il cha dao, Zenes propone percorsi di riequilibrio che si adattano ai contesti in cui prendono forma. Esperienze immersive nel nostro stesso corpo, in natura e in luoghi culturalmente evocativi diventano frutto di connessione con noi stessi, con la comunità e con l’ambiente che ci accoglie"
 logo_url: /assets/images/logo-wht.png
